@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Configuration and scripts for Playbook",
   "bin": {
-    "playbook-scripts": "./bin/react-scripts.js"
+    "react-scripts-ant": "./bin/react-scripts.js"
   },
   "repository": {
     "type": "git",
