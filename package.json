@@ -1,13 +1,13 @@
 {
-  "name": "playbook-scripts",
+  "name": "react-scripts-antd",
   "version": "1.0.1",
-  "description": "Configuration and scripts for Playbook",
+  "description": "Configuration and scripts for Ant Design",
   "bin": {
     "react-scripts-ant": "./bin/react-scripts.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://Kauyumari@bitbucket.org/Kauyumari/playbook-scripts.git"
+    "url": "https://github.com/BlackstoneStudio/react-dcripts-sntd.git"
   },
   "dependencies": {
     "@babel/core": "7.10.5",
